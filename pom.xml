@@ -17,7 +17,7 @@
 
   <modules>
     <module>server</module>
-    <module>taxi-booking</module>
+    <module>webapp</module>
   </modules>
 
   <distributionManagement>
