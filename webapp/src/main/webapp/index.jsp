@@ -38,11 +38,11 @@
             </div>
             <div id="nav-bar" class="nav-bar">
                 <div class="container">
-                    <a href="index.html" class="logo"><img src="images/logo.svg" alt="Taxi Grabber - HTML Template" /></a>
+                    <a href="index.jsp" class="logo"><img src="images/logo.svg" alt="Taxi Grabber - HTML Template" /></a>
                     <button id="nav-trigger" class="nav-trigger ion-android-menu"></button>
                     <nav class="main-nav">
                         <ul>
-                            <li class="active"><a href="index.html">Home</a></li>
+                            <li class="active"><a href="index.jsp">Home</a></li>
                             <li><a href="services.html">Services</a></li>
                             <li><a href="drivers.html">Drivers</a></li>
                             <li><a href="cars.html">Cars</a></li>
